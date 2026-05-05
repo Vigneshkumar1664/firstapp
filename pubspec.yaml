@@ -18,15 +18,4 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - assets/logo/med1.jpg
-  - assets/logo/med2.png
-  - assets/logo/med3.png
-  - assets/logo/med4.png
-  - assets/logo/med5.png
-  - assets/logo/facebook.png
-  - assets/logo/flutter.png
-  - assets/logo/google.png
-  - assets/logo/twitter.png
-  - assets/logo/dolo.jpg
-  - assets/logo/Montek LC.jpg
-  - assets/logo/telma AZ.jpg
+    - assets/logo/
