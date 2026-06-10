@@ -1,3 +1,3 @@
-# myfirsttrail
+# MediApp
 
 A new Flutter project.
